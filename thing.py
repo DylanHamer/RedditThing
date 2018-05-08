@@ -6,8 +6,8 @@ By Dylan Hamer
 
 import praw
 
-client = "Lzf9MWt6VKQbGg"
-secret = "UaEoRGae6DWmoBz7uUhp4CSeTxY"
+client = "<CLIENT>"
+secret = "<SECRET>"
 agent = "SimpleNews (by /u/dylanhamer13)"
 
 reddit = praw.Reddit(client_id=client,
